@@ -18,6 +18,5 @@ An interactive Excel dashboard to analyze bike sales data.
 📂 Files Included:
    Bike sales dashboard Excel File
    Bike sales dashboard png file
-   Bike sales dashboard pdf file
-
+   
 
